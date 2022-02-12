@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    padding: 10px;
+  }
+  h1 {
+    font-family: "Nunito Sans";
+  }
+  .box {
+    border: 2px solid gray;
+    padding: 20px 10px; 
+    font-family: "Nunito Sans";   
+    width: 100%;
+    overflow: scroll;
+    margin-bottom: 5px;
+  }
+  .box h4 {
+    display: inline-block;
+    font-weight: lighter;
+  }
+  #colorbox{
+    min-width: 150px; 
+    min-height: 100px;
+    padding: 5px 10px; 
+  }
+  .fontp{
+    min-width: 200px;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 5px 10px;
+  }
+  .fontp h3 {
+   font-family: "Source Code Pro"; 
+   font-weight: bold;
+   text-decoration: underline; 
+  }
+  .SCP {
+    font-family: "Source Code Pro";
+    
+  }
+  .NS {
+    font-family: "Nunito Sans";
+    
+  
+  }
+  .P {
+    font-family: Poppins;
+  
+  }
+  .bolder {
+    font-weight: bold !important;
+  }
+  .italic{
+    font-style: italic;
+  }
+  
+  
+  
